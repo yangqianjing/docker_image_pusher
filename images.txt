@@ -1,1 +1,4 @@
-centos:7
+nginx:stable
+nginx:stable-perl
+nginx:stable-alpine
+nginx:stable-alpine-perl
