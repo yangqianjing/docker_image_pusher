@@ -1,9 +1,2 @@
-rancher/rancher:v2.7.9
-rancher/rancher:v2.7.8
-rancher/rancher:v2.7.7
-rancher/rancher:v2.7.6
-rancher/rancher:v2.7.5
-rancher/rancher:v2.7.4
-rancher/rancher:v2.7.3
-rancher/rancher:v2.7.2
-rancher/rancher:v2.7.1
+nginx:v1.27.1
+nginx:1.27.1
