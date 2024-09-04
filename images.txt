@@ -1,1 +1,1 @@
-prom/node-exporter:v1.5.0
+grafana/grafana-enterprise
