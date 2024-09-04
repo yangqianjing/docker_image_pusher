@@ -1,1 +1,1 @@
-redroid/redroid:11.0.0-latest
+budtmo/docker-android-x86-11.0
