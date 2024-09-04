@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_9.0
+prom/node-exporter:v1.5.0
