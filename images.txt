@@ -1,1 +1,1 @@
-rancher/rancher:stable
+centos:8
