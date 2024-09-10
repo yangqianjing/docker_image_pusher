@@ -1,2 +1,4 @@
-rancher/rancher:v2.5.8
-rancher/rancher:v2.5.7
+rancher/prom-node-exporter:v1.0.1
+rancher/prometheus-auth:v0.2.1
+rancher/istio-kubectl:1.5.10
+rancher/jimmidyson-configmap-reload:v0.3.0
