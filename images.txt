@@ -1,1 +1,1 @@
-prom/prometheus:v2.41.0
+rancher/mirrored-pause:3.6
