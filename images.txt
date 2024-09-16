@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.8.0
+tomcat:alpine
