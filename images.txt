@@ -1,1 +1,1 @@
-tomcat:alpine
+nginx:1.24.0
