@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.5.1
+rancher/rancher:v2.6.13
