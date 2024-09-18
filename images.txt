@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.6.13
+shell:v0.1.19
