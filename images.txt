@@ -1,7 +1,1 @@
-tomcat:9.0.73-jdk11-openjdk-slim
-tomcat:9.0.62-jdk8-openjdk-slim
-tomcat:9.0.68-jdk11-openjdk-slim
-tomcat:8.5.77-jdk11-openjdk-slim
-tomcat:8.5.66-jdk8-openjdk-slim
-tomcat:10.0.14-jdk11-openjdk-slim
-tomcat:10.0.9-jdk8-openjdk-slim
+tomcat:9.0.93-jdk8
