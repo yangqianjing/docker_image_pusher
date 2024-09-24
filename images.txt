@@ -1,1 +1,2 @@
-calico/cni:v3.22.0
+calico/pod2daemon-flexvol:v3.22.0
+calico/kube-controllers:v3.22.0
