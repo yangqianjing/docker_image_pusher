@@ -1,1 +1,1 @@
-tomcat:9.0
+tomcat:9-jdk11-openjdk
