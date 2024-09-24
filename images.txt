@@ -1,1 +1,1 @@
-calico/ctl:v3.24.0
+calico/typha:v3.22.0
