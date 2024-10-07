@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.34.3
+oracle/database:19.3.0-ee
