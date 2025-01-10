@@ -1,1 +1,2 @@
-rancher/rancher:stable
+rancher/kube-api-auth:v0.2.2
+rancher/shell:v0.2.1
