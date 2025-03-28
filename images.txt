@@ -1,1 +1,5 @@
-tomcat:9.0.102-jdk17-corretto
+docker pull tomcat:9.0.102-jdk17-corretto-al2
+docker pull tomcat:9.0.102-jdk21-corretto
+docker pull tomcat:9.0.102-jdk21-corretto-al2
+docker pull tomcat:9.0.102-jdk8-corretto
+docker pull tomcat:9.0.102-jdk8-corretto-al2
