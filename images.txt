@@ -1,6 +1,2 @@
-tomcat:9.0.102-jdk17-corretto-al2
-tomcat:9.0.102-jdk21-corretto
-tomcat:9.0.102-jdk21-corretto-al2
-tomcat:9.0.102-jdk8-corretto
-tomcat:9.0.102-jdk8-corretto-al2
-gitlab/gitlab-runner:ubuntu-bleeding
+gitlab/gitlab-ce:17.9.3-ce.0
+gitlab/gitlab-ce:17.8.6-ce.0
