@@ -1,1 +1,4 @@
-hariag/llama:1.0
+vllm/vllm-openai:v0.8.0
+vllm/vllm-openai:v0.8.1
+vllm/vllm-openai:v0.8.2
+vllm/vllm-openai:v0.8.3
