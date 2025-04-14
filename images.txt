@@ -1,1 +1,1 @@
---platform vllm/vllm-openai:v0.5.1
+--platform  ollama/ollama:0.6.5
