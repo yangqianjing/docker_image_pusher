@@ -1,1 +1,1 @@
---platform ollama/ollama:0.6.5
+--platform ollama/ollama:0.6.5-rc1ollama/ollama:0.6.5
