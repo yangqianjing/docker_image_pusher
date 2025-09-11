@@ -1,7 +1,1 @@
---platform=arm64 ollama/ollama:0.11.10
---platform=arm64 ollama/ollama:0.11.9
---platform=arm64 ollama/ollama:0.11.10-rocm
---platform=arm64 ollama/ollama:0.11.9-rocm
---platform=arm64 ollama/ollama:0.11.9-rc0-rocm
---platform=arm64 ollama/ollama:0.11.8-rocm
---platform=arm64 ollama/ollama:0.11.8
+--platform=arm64 swr.cn-south-1.myhuaweicloud.com/ascendhub/mindie:2.1.RC1-800I-A3-py311-openeuler24.03-lts
