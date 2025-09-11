@@ -1,1 +1,1 @@
-mockoon/cli:latest
+--platform=arm64 swr.cn-south-1.myhuaweicloud.com/ascendhub/mindie:2.1.RC1-300I-Duo-py311-openeuler24.03-lts
