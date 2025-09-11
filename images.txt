@@ -1,1 +1,7 @@
-
+--platform=arm64 ollama/ollama:0.11.10
+--platform=arm64 ollama/ollama:0.11.9
+--platform=arm64 ollama/ollama:0.11.10-rocm
+--platform=arm64 ollama/ollama:0.11.9-rocm
+--platform=arm64 ollama/ollama:0.11.9-rc0-rocm
+--platform=arm64 ollama/ollama:0.11.8-rocm
+--platform=arm64 ollama/ollama:0.11.8
