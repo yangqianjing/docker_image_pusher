@@ -1,1 +1,3 @@
-rustdesk/rustdesk-server:1.1.11
+prom/prometheus:v3.7.3
+prom/prometheus:v3.7.2
+prom/prometheus:v3.7.1
