@@ -1,1 +1,20 @@
- centralx/clash:1.18.0
+linuxserver/qbittorrent:5.1.4
+linuxserver/qbittorrent:5.1.2
+linuxserver/qbittorrent:5.1.1
+linuxserver/qbittorrent:5.1.0
+linuxserver/qbittorrent:5.0.4
+linuxserver/qbittorrent:5.0.3
+linuxserver/qbittorrent:5.0.2
+linuxserver/qbittorrent:5.0.1
+linuxserver/qbittorrent:5.0.0
+linuxserver/qbittorrent:4.6.7
+linuxserver/qbittorrent:4.6.6
+linuxserver/qbittorrent:4.6.5
+linuxserver/qbittorrent:4.6.4
+linuxserver/qbittorrent:4.6.3
+linuxserver/qbittorrent:4.6.2
+linuxserver/qbittorrent:4.6.1
+linuxserver/qbittorrent:4.6.0
+linuxserver/qbittorrent:4.5.5
+linuxserver/qbittorrent:4.5.4
+linuxserver/qbittorrent:4.5.3
