@@ -1,1 +1,1 @@
-qwenllm/qwenvl:qwen3vl-cu128
+docker pull prom/alertmanager:v0.29.0
