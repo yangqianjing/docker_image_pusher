@@ -1,1 +1,1 @@
-prom/alertmanager:v0.29.0
+grafana/loki:3.5.9
