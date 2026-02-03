@@ -1,1 +1,1 @@
-kebox/ghcr.io.songquanpeng.one-api:latest
+nginx:1.29.4
