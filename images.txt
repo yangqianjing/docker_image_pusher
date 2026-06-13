@@ -1,1 +1,1 @@
-alpine:3.20
+gcr.io/kaniko-project/executor:v1.23.2-debug
